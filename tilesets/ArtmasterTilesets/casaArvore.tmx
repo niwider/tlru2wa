@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="casaArvore" tilewidth="32" tileheight="32">
+  <image source="casaArvore.png" width="608" height="512"/>
+ </tileset>
+ <layer name="set" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3cV6xURRzH8dlEARUsIFKsPFhoioDEDmpExSAlAZEiixiCKApijwUJ9oJYQlVBagIaffBBTYSAAomQIARCi0ZQygsJ0hTrd+PGsOTu2dP27Mzwm9xPsrk3mTn/O/95Of//zlJjzFIREUlNfTTASTgZp6AhGlnwbMeT5miBljgb5+BcnIfzcQFaWfCcNqlG7rZGG7RFO7THpbgMHXA5OqITOuMKdHEovmqoRu5ejWtwLa7D9eiKbrjBlI6b0R234Fbchh643eL4qqGaudsTd6AXeqMP+prgMRCDMBhDcDeGWhpfmrLI3TyG4R4Mx72m8hiNB/EQxmAsHrY0vjSlkbs34qaANUbgkQpzVhoT8QIaB6xTFxvOZhR5kzx3+6E/7sQA3IXH8DiewJN4KsS8QWMKpuLCgFjqkje1O5txjDPJc3ck7sMo3I8H8ApexWt4HW8kXKMwFuFKk318cc9mVI/iRbyU8HkL42k8g2fxHGbifXyADzErhTW+RhOTfXxxz2ZUL2Mapid83izGWnyPi0xt4otzNqOagcX4OIXnfROT8BYm41uswEqsSjDvT9iOHfgZV5naxBf1bMbxCZak8KyF3J2NjzAHc7EJm7EFW7ENuyLOux8HcBCHcNjULr6oZzOudVgf8zmPzd3Py6yxF7/jCP7An/gLf+OfwkQ5fnKlc3+Kz1Cf3zfI2RFflLMZ1y/YaVLN3fFlmEb8X0/FaTgdZ6AxmuA7/r66OPcyLMc3aJlgL6oUX1X9ZlLN3XJ78f+elPMDfizOvwEb7YwvMwlzt9I+VLSPeX4trrEbe+yKzyoBuZt4HwoK777fxXvFNSZgPJ6vfXxWCsjdRPtw9LvvBVhYXONtvGOye/dd7bOZpgq5G2sf6nr3/SW+Kq4xD/NNdnWpWp7NsCLkbuh9CHr3vcaUji9MdnWpWp7NShLkbsX9sOHdt01nM0iKuVt2P/LGzrpU1mczjJTrUnXuxwijulRYeaO61LFDdalwQ3Wp8EN1qeRUlwo/VJf6b6guFX2oLpUeG+tSJ/D5RNTLqS4VdsTJ3aB332eiKc5CMzRHi5zqUlnm7tEuZp5L0BptUqw/2BJfVLXIXcVnV+7awvf4RERERMRernw/2XeufD/ZJr7fHeAK3+8OcIXvdwe4wve7A1zj+90Brskbv3u0XON7j5ZLfO/Rco3vPVqu8b1HyzW+92i5yPceLdf43qPlGlt6mNQHUkq56w7lroiIiIiIiIgcb9RHawf10dpBfbR2UB+tXdRHa5e8UR+tTVy6T813rt2n5jvX7lPznWv3qfnOxfvUfOfafWq+c+0+Nd/Z0osopdSL6A71IoqIiIiIiIiIiLjvX2gv98xAnAAA
+  </data>
+ </layer>
+</map>
