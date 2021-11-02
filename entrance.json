@@ -517,7 +517,7 @@
         {
          "columns":32,
          "firstgid":9688,
-         "image":"..\/Workadventure-Map_EXPORT1\/tilesets\/lpcbeachdesert\/beachdesert.png",
+         "image":"tilesets\/lpcbeachdesert\/beachdesert.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
