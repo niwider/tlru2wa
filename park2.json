@@ -2430,7 +2430,7 @@
 
 		{
          "columns":32,
-         "firstgid":8709,
+         "firstgid":1,
          "image":"tilesets\/lpcvictorianpreview\/bricks.png",
          "imageheight":2048,
          "imagewidth":1024,
@@ -9043,7 +9043,7 @@
                          "wangid":[0, 74, 0, 0, 0, 74, 0, 0]
                         }]
                 }]
-        }],
+        },
 
 		
         {
