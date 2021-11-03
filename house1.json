@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world1.json#starthouse1exit"
+                 "value":"world1.json#starthouseoneexit"
                 }],
          "type":"tilelayer",
          "visible":true,
