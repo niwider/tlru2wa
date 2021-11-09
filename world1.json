@@ -323,12 +323,12 @@
                  "value":"https:\/\/true-love.org\/wp-content\/uploads\/2021\/11\/7-types-of-love-sternberg_self-reflection-full.pdf"
                 }, 
                 {
-                 "name":"openTab",
+                 "name":"backupopenWebsite",
                  "type":"string",
-                 "value":"_blank"
+                 "value":"https:\/\/true-love.org\/self-reflection-quiz-which-type-of-love\/"
                 }, 
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/true-love.org\/self-reflection-quiz-which-type-of-love\/"
                 }, 
