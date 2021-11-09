@@ -7,7 +7,7 @@
          "height":60,
          "id":20,
          "name":"collides",
-         "opacity":0.67,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":100,

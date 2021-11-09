@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/welcome\/"
+                 "value":"https:\/\/true-love.org\/campus-material\/welcome\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/1st-what-is-love\/"
+                 "value":"https:\/\/true-love.org\/campus-material\/1st-what-is-love\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -209,7 +209,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/2nd-love-and-family\/"
+                 "value":"https:\/\/true-love.org\/campus-material\/2nd-love-and-family\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/3rd-love-sex-and-sexuality\/"
+                 "value":"https:\/\/true-love.org\/campus-material\/3rd-love-sex-and-sexuality\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -255,7 +255,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/4th-relationships-being-together\/"
+                 "value":"https:\/\/true-love.org\/campus-material\/4th-relationships-being-together\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
