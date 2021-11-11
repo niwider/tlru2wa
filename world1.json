@@ -475,7 +475,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/true-love.org\/campus-material\/chat-irc\/"
+                 "value":"https:\/\/open.spotify.com\/embed\/episode\/6KcV3G8vh1yvAfb02rGAig?utm_source=generator&theme=0"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -485,7 +485,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"ontrigger"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteWidth",
