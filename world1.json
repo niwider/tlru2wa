@@ -452,7 +452,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
