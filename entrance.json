@@ -163,6 +163,11 @@
                  "value":"https:\/\/true-love.org\/campus-material\/1st-what-is-love\/"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -184,6 +189,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/true-love.org\/campus-material\/2nd-love-and-family\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -209,6 +219,11 @@
                  "value":"https:\/\/true-love.org\/campus-material\/3rd-love-sex-and-sexuality\/"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -230,6 +245,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/true-love.org\/campus-material\/4th-relationships-being-together\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
