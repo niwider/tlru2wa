@@ -208,7 +208,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/-Cxq7ZmnFLU"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-7-types-of-love\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/embed.ted.com\/talks\/brad_troeger_what_is_love"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-ted-talk-what-is-love\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -320,7 +320,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/v8Yo-PXN7UA"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-ted-talk-36-questions-that-lead-to-love\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -348,7 +348,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.stitcher.com\/embed\/78955\/72512871"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-podcast-confronting-race-religion-and-her-heart\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -381,7 +381,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.stitcher.com\/embed\/78955\/70161221"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-podcast-researching-jenna-discovering-myself\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -414,7 +414,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.stitcher.com\/embed\/78955\/71306487"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-podcast-why-cant-men-say-i-love-you-to-each-other\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -475,7 +475,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/open.spotify.com\/embed\/episode\/6KcV3G8vh1yvAfb02rGAig?utm_source=generator&theme=0"
+                 "value":"https:\/\/true-love.org\/campus-material\/1-podcast-neue-beziehungsmodelle-warum-liebe-politisch-ist\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -710,7 +710,7 @@
          "value":"TLRU2-World1"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
