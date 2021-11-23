@@ -408,7 +408,7 @@
                 }, 
                 {
                  "name":"jitsiWidth",
-                 "type":"int",
+                 "type":"float",
                  "value":66
                 }],
          "type":"tilelayer",
